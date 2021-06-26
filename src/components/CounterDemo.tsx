@@ -7,6 +7,8 @@ function CounterDemo(): JSX.Element {
     console.log("after incrementing, counter is", counter);
   };
 
+  console.log("Component is rendering with a counter value of", counter);
+
   return (
     <>
       <h1>Counter Demo</h1>
