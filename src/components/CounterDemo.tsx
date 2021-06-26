@@ -1,5 +1,5 @@
 function CounterDemo(): JSX.Element {
-  let counter = 0;
+  let counter = 11;
 
   const incrementCounter = () => {
     console.log('before incrementing, counter is', counter);
