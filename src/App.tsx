@@ -1,7 +1,7 @@
-import CounterDemo from "./components/CounterDemo";
+import MoodPickerDemo from "./components/MoodPickerDemo";
 
 function App(): JSX.Element {
-  return <CounterDemo />;
+  return <MoodPickerDemo />;
 }
 
 export default App;
